@@ -1,0 +1,17 @@
+body {
+  background-color: rgb(227, 210, 111);
+  font-family: "Raleway", sans-serif;
+}
+.about {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  width: 80%;
+  margin: 0;
+}
+
+.pictures img {
+  /* width: 400px; */
+  width: 30%;
+}
